@@ -2,7 +2,7 @@
 
  AI-powered bilingual gift recommendation engine for mothers and babies. Natural-language input in English or Arabic → curated, validated shortlist with native-quality copy in both languages.
 
-**One-paragraph summary:** Gift Finder is a customer-facing tool for Mumzworld shoppers who want to buy a gift for a new mom or baby but don't know what to search for. It accepts a free-text request in English or Arabic (e.g. "thoughtful gift for a friend with a 6-month-old, under 200 AED"), runs it through Claude Sonnet with a structured bilingual prompt, validates the response against a Zod schema, and returns 3–5 curated gift suggestions — each with reasoning and a purchase tip in both EN and AR, a confidence score, and explicit out-of-scope/uncertainty handling.
+**One-paragraph summary:** Gift Finder is a customer-facing tool for Mumzworld shoppers who want to buy a gift for a new mom or baby but don't know what to search for. It accepts a free-text request in English or Arabic (e.g. "thoughtful gift for a friend with a 6-month-old, under 200 AED"), runs it through Claude Sonnet with a structured bilingual prompt, validates the response against a Zod schema, and returns 3–5 curated gift suggestions each with reasoning and a purchase tip in both EN and AR, a confidence score, and explicit out-of-scope/uncertainty handling.
 
 ---
 
